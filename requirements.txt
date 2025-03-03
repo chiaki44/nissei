@@ -1,0 +1,13 @@
+# Web Framework
+Flask==3.0.2
+
+# Database
+SQLAlchemy==2.0.28
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Development tools
+pytest==8.1.1
+black==24.2.0
+flake8==7.0.0 
